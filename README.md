@@ -1,23 +1,7 @@
 DeviceControl
 ===============================
 
-[![Flattr this git repo](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=amartinz&url=https://github.com/Evisceration/DeviceControl&title=DeviceControl&language=en_GB&tags=github&category=software)
-
-![Logo](ic_launcher-web.png)
-
-[Device Control][1] is an app to control several features of your device as well as some nice extra features like
- 
-* Tasker
-* App Manager
-* Editors
-* Entropy Generator
-* Wireless Filemanager
-* and more...
-
-Try it out:
- 
-<a href="https://play.google.com/store/apps/details?id=org.namelessrom.devicecontrol">
-  <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
+[![Flattr this git repo](https://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=amart
 </a>
 
 Used libraries
@@ -76,5 +60,5 @@ License
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
- [1]: https://play.google.com/store/apps/details?id=org.namelessrom.devicecontrol
- [2]: https://plus.google.com/u/0/+AlexanderMartinz?rel=author
+ [1]: https://play.google.com/store/apps/details?id=org.nameles
+ [2]: https://plus.google.com/u/0/+AlexanderMartinz?rel=authorsrom.devicecontrol
